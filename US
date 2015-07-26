@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:0,ESPN3
+http://tinyurl.com/pozbtqs
 #EXTINF:0,abc hd
 http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
 #EXTINF:0,CBS HD
