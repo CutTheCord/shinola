@@ -1,26 +1,11 @@
 #EXTM3U 
-# xxl.+18
-http://109.87.112.190:8888/udp/238.0.0.210:1234
-http://91.240.87.34:4000/udp/224.200.202.63:1234
-hustler hd
-http://213.208.165.154:8080/udp/234.5.2.250:1234
-Erox HD +18
-http://hop.02.lv/1Sv
-http://spi-live.ercdn.net:80/spi/ero.../playlist.m3u8
-Dorcel TV
-http://109.233.194.252:5556/udp/224.21.21.90:1234
-Dorcel TV 1
-http://109.233.194.252:5556/udp/224.20.20.92:1234
-FRENCLOVER TV
-http://80.87.146.133:1111/udp/230.3.4.150:5678
-telekanal-russkaya-noch
-http://80.87.146.133:1111/udp/230.3.4.110:5678
-# EXTINF: -1, Brazzzers (+18)
-http://94.139.235.44:81/udp/239.195.2.4:1234
-# EXTINF: -1, P layboy (+18)
-http://94.139.235.44:81/udp/239.195.2.5:1234
-BRAZEZZERS TV
-http://213.208.165.154:8080/udp/234.5.2.248:1234
-http://80.87.146.133:1111/udp/230.3.4.121:5678
-PLATİNUM
+#EXTINF: 0 ,Platinum xxx +18
 http://8.12.105.44:8085/udp/239.29.13.13:1234
+#EXTINF: -1, Russian Night +18
+http://78.110.156.8:81/udp/239.195.2.3:1234
+#EXTINF: -1, ******* TV
+http://212.164.25.179:1234/udp/233.7.70.115:5000
+#EXTINF: -1, Blue Hustler
+http://212.164.25.179:1234/udp/233.7.70.121:5000
+#EXTINF: -1, O-la-la
+http://212.164.25.179:1234/udp/233.7.70.236:5000
