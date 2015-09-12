@@ -15,21 +15,3 @@ http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnne
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
 #EXTINF:-1, CNN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:-1,Animal Planet
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1,TLC
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:-1,Travel Ch.
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1,Planet Green
-http://80.80.160.168/live/4/live.m3u8
-#EXTINF:-1,ID
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:-1,ESPN HD
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1,SHO HD
-http://80.80.160.168/live/7/live.m3u8
-#EXTINF:-1,TV 14 live HD
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1,Discovery Sc. HD
-http://80.80.160.168/live/9/live.m3u8
