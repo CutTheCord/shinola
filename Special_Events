@@ -1,1 +1,24 @@
-Stay Tuned -- Healthy Links Coming Soon!
+#EXTM3U
+#EXTINF:-1,Showtime USA
+http://vurl.com/wp7P8
+#EXTINF:-1,Box Nation UK
+http://vurl.com/v2LO5
+#EXTINF:-1,Kanaltürk Turkey
+http://kanalturk-live.ercdn.com/kanalturk.m3u8
+#EXTINF:-1,Kanaltürk Turkey
+http://origin.live.web.tv.streamprovider.net/streams/1a38fbc57c3fcf24a4b401d9d6d327be_live_0_0/index.m3u8
+#EXTINF:-1,Sport 1 Czech
+acestream://565fdf3c5b32c20b68ef404caf184dff245e809f
+#EXTINF:-1,beIN Sports 1 HD France
+#EXTVLCOPT:http-user-agent=”Mozilla/5.0″
+http://195.154.162.232:8080/693856c4be12b4dfb7fc287a1da9754359a14fad99d95aead48852ab4eb85bcd/hls/sports.m3u8
+#EXTINF:-1,2+2 Ukraine
+acestream://52e57196011acf710b76b3b08b411460f086c124
+#EXTINF:-1,Arenavision 1
+acestream://1026cd41730e40ddcc62d08b026b213a1f476a48/
+#EXTINF:-1,Arenavision 3
+acestream://b4c6dcd630feed51d21eda4faf24d9ae4f87d7ab/
+#EXTINF:-1,Arenavision 3
+acestream://f08cf180c3b2c86050c5dad441258935eb80a4b3
+#EXTINF:-1,Arenavision 4
+acestream://8ea95f3d0cde542dbc611f34bb93a43e31e8b482
