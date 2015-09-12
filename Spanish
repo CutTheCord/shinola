@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Univision -- For Albert!
-rtmp://$OPT:rtmp-raw=rtmp://nl.iguide.to/iguide playpath=x3fb5apibss645j swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=29803&autoplay=true token=#ed%h0#w18623jsda6523lDGDVe
+http://199.168.116.16:1935/app/extremouns-channel.m3u8
 #EXTINF:-1,TELECINCO
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
 #EXTINF:-1,ANTENA 3
