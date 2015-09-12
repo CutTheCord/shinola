@@ -15,3 +15,103 @@ http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnne
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
 #EXTINF:-1, CNN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1, ABC 
+http://167.114.119.209:1935/flu555/_definst_/abc/playlist.m3u8?token= 
+#EXTINF:-1, CNBC 
+http://192.99.19.98:1935/flu555/_definst_/jcnbc/playlist.m3u8?token= 
+#EXTINF:-1, KTLA 
+http://167.114.119.209:1935/flu555/_definst_/ktla/playlist.m3u8?token= 
+#EXTINF:-1, CBS 
+http://192.99.19.98:1935/flu555/_definst_/cbs/playlist.m3u8?token= 
+#EXTINF:-1, NBC 
+http://167.114.119.209:1935/flu555/_definst_/nbc/playlist.m3u8?token= 
+#EXTINF:-1, Fox5
+http://167.114.157.40:1935/flu555/_definst_/fox/playlist.m3u8?token= 
+#EXTINF:-1, CNN 
+http://192.99.19.98:1935/flu555/_definst_/jcnn/playlist.m3u8?token= 
+#EXTINF:-1, Animal Planet 
+http://167.114.156.29:1935/flu555/_definst_/animal/playlist.m3u8?token= 
+#EXTINF:-1, Disney XD 
+http://167.114.101.188:1935/flu555/_definst_/disneyxd/playlist.m3u8?token= 
+#EXTINF:-1, Bloomberg HD 
+http://167.114.119.209:1935/flu555/_definst_/jbloomberg/playlist.m3u8?token= 
+#EXTINF:-1, Bravo (HD) 
+http://167.114.119.209:1935/flu555/_definst_/jbravo/playlist.m3u8?token= 
+#EXTINF:-1, HBO East 
+http://167.114.119.209:1935/flu555/_definst_/hboeast/playlist.m3u8?token= 
+#EXTINF:-1, HBO Comedy 
+http://167.114.119.209:1935/flu555/_definst_/hbocomedy/playlist.m3u8?token= 
+#EXTINF:-1, HBO Zone 
+http://167.114.119.209:1935/flu555/_definst_/hbozone/playlist.m3u8?token= 
+#EXTINF:-1, Starz Cinema 
+http://167.114.101.188:1935/flu555/_definst_/starzcinema/playlist.m3u8?token= 
+#EXTINF:-1, Starz Edge 
+http://167.114.156.30:1935/flu555/_definst_/starzedge/playlist.m3u8?token= 
+#EXTINF:-1, AMC
+http://167.114.157.40:1935/flu555/_definst_/amc/playlist.m3u8?token= 
+#EXTINF:-1, LMN 
+http://167.114.101.188:1935/flu555/_definst_/lmn/playlist.m3u8?token= 
+#EXTINF:-1, FX 
+http://192.99.19.98:1935/flu555/_definst_/fx/playlist.m3u8?token= 
+#EXTINF:-1, TNT 
+http://167.114.156.30:1935/flu555/_definst_/tnt/playlist.m3u8?token= 
+#EXTINF:-1, E! 
+http://167.114.119.209:1935/flu555/_definst_/e/playlist.m3u8?token= 
+#EXTINF:-1, History
+http://167.114.157.40:1935/flu555/_definst_/history/playlist.m3u8?token= 
+#EXTINF:-1, Nat Geo 
+http://167.114.119.209:1935/flu555/_definst_/natgeo/playlist.m3u8?token= 
+#EXTINF:-1, Nat Geo Wild 
+http://192.99.19.98:1935/flu555/_definst_/natgeowild/playlist.m3u8?token= 
+#EXTINF:-1, Discovery 
+http://192.99.19.98:1935/flu555/_definst_/discovery/playlist.m3u8?token= 
+#EXTINF:-1, TLC 
+http://167.114.119.209:1935/flu555/_definst_/jtlc/playlist.m3u8?token= 
+#EXTINF:-1, Cooking Channel 
+http://167.114.119.209:1935/flu555/_definst_/cookingchannel/playlist.m3u8?token= 
+#EXTINF:-1, Food Channel 
+http://167.114.119.209:1935/flu555/_definst_/food/playlist.m3u8?token= 
+#EXTINF:-1, USA 
+http://167.114.119.209:1935/flu555/_definst_/usa/playlist.m3u8?token= 
+#EXTINF:-1, DIY Network 
+http://192.99.19.98:1935/flu555/_definst_/diy/playlist.m3u8?token= 
+#EXTINF:-1, HIFI 
+http://167.114.119.209:1935/flu555/_definst_/jhifi/playlist.m3u8?token= 
+#EXTINF:-1, Syfy 
+http://167.114.119.209:1935/flu555/_definst_/syfy/playlist.m3u8?token= 
+#EXTINF:-1, ESPN 
+http://167.114.119.209:1935/flu555/_definst_/espn/playlist.m3u8?token= 
+#EXTINF:-1, ESPN2 
+http://167.114.119.209:1935/flu555/_definst_/espn2/playlist.m3u8?token= 
+#EXTINF:-1, Fox Sports1 
+http://167.114.119.209:1935/flu555/_definst_/foxsports1/playlist.m3u8?token= 
+#EXTINF:-1, Fox Sports2 
+http://167.114.119.209:1935/flu555/_definst_/foxsports2/playlist.m3u8?token= 
+#EXTINF:-1, Golf Channel 
+http://167.114.156.30:1935/flu555/_definst_/golf/playlist.m3u8?token= 
+#EXTINF:-1, Tennis Channel
+http://167.114.157.40:1935/flu555/_definst_/jtennis/playlist.m3u8?token= 
+#EXTINF:-1, NFL Network 
+http://192.99.19.98:1935/flu555/_definst_/jnfl/playlist.m3u8?token= 
+#EXTINF:-1, HGTV 
+http://167.114.119.209:1935/flu555/_definst_/jhgtv/playlist.m3u8?token= 
+#EXTINF:-1, TBS 
+http://167.114.101.188:1935/flu555/_definst_/tbs/playlist.m3u8?token=
+#EXTINF:-1,Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1,Travel Ch.
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1,ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,TV 14 live HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,Discovery Sc. HD
+http://80.80.160.168/live/9/live.m3u8
