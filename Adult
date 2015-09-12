@@ -1,26 +1,10 @@
 #EXTM3U 
-#EXTINF:0,PENTHOUSE
-http://109.160.90.1:5555/udp/239.100.2.8:1234
-#EXTINF:0,Hustler HD
-http://server4.balkantvmedia.com:8080/XXX3?u=user986:p=Y98Rg0zd 
-#EXTINF:-0,REDLİGHT HD
-http://server4.balkantvmedia.com:8080/XXX2?u=user986:p=Y98Rg0zd 
-#EXTINF:-0,EROTIC 2 +18
-http://server4.balkantvmedia.com:8080/XXX5?u=user986:p=Y98Rg0zd 
-#EXTINF:-0,EROTIC 3 +18
-http://server4.balkantvmedia.com:8080/XXX6?u=user986:p=Y98Rg0zd
-#‎EXTINF‬:0,JASMIN TV (720p)
-rtmp://109.71.162.112/live/sd.jasminchannel.stream/sd.jasminchannel.stream
-#EXTINF:-1,BABES SPORTING
-http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
 #EXTINF:-1,BRAZZERS
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
 #EXTINF:-1,HOT SHOTS
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
 #EXTINF:-1,OLALA
 http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:-1,Power Girls TV HD
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
 #EXTINF:-1,Private
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:-1,PRIVATE
@@ -31,26 +15,10 @@ http://62.210.83.180:8081/sexzonehd/sexzonehd/chunklist_w1684109871.m3u8
 http://188.165.220.116:8081/live/49/playlist.m3u8
 #EXTİNF:0, XXXHD 2 tv 
 http://188.165.220.116:8081/live2/24/playlist.m3u8
-#EXTINF:0,Blue Hustler
-http://j.mp/ZCH_C03_BLUEHUSTLER_sly
-#EXTINF:0,XXL
-http://j.mp/ZCH_C03_XXL_sly
-#EXTINF:0,Russian Night
-http://j.mp/ZCH_C01_RUSNIGHT_sly
-#EXTINF:0,Olala
-http://j.mp/ZCH_C06_OLALA_sly
 #EXTINF:-1, PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:-1, SAKURA
 http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
-#EXTINF:-1, HOT GIRL
-http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
-#EXTINF:-1, THE O
-http://edge2.everyon.tv:1935/etv2sb/phd771/paz.m3u8
-#EXTINF:-1, CINERO
-http://edge2.everyon.tv:1935/etv2sb/phd59/paz.m3u8
-#EXTINF:-1, OKADAI HD
-http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8
 #EXTINF:-1, PINK TV
 http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8
 #EXTINF:-1, GIRLS TV
@@ -63,14 +31,8 @@ http://edge2.everyon.tv:1935/etv2sb/phd992/paz.m3u8
 http://edge2.everyon.tv:1935/etv2sb/phd993/paz.m3u8
 #EXTINF:-1, LIVETHING
 http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8
-#EXTINF:-1, PREMIUM
-http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
 #EXTINF:-1, ASK TV
 http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
-#EXTINF:-1, Penthouse HD
-http://82.146.20.98:1234/udp/239.130.50.124:9001
-#EXTINF:-1, S ext6senso
-http://82.146.20.98:1234/udp/239.130.50.126:9001
 #EXTINF:-1, TGIRLS TV
 http://82.146.20.98:1234/udp/239.130.50.127:9001
 #EXTINF:-1, Satisfaction
@@ -111,26 +73,10 @@ http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
 #EXTINF:-1,Brasileirinhas
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-#EXTINF:-1,LiveSex Latinas
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 #EXTINF:-1,Wepa
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
 #EXTINF:-1,Wepa 2
 http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
-#EXTINF:-1,Pb
-http://atde.x10.bz/playlist.php?ch=PlayboyTV&n=289
-#EXTINF:-1,Xtsy
-http://atde.x10.bz/playlist.php?ch=XTSYLA&n=1463
-#EXTINF:-1,hustler
-http://atde.x10.bz/playlist.php?ch=hustlerLA&n=1707
-#EXTINF:-1,VENUS
-http://atde.x10.bz/playlist.php?ch=VENUSSD&n=285
-#EXTINF:-1,Sextreme
-http://atde.x10.bz/playlist.php?ch=SextremeSD&n=287
-#EXTINF:-1,Juicy
-http://atde.x10.bz/playlist.php?ch=JuicyLA&n=1023
-#EXTINF:-1,Real
-http://atde.x10.bz/playlist.php?ch=RealLA&n=1021
 #EXTINF:-1,Adult 4K: VOD1
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
 #EXTINF:-1,Adult 4K: VOD10
