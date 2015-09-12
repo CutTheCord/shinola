@@ -1,11 +1,193 @@
 #EXTM3U 
-#EXTINF:-0 ,Platinum xxx +18
-http://8.12.105.44:8085/udp/239.29.13.13:1234
-#EXTINF:-1, Russian Night +18
-http://78.110.156.8:81/udp/239.195.2.3:1234
-#EXTINF:-1, ******* TV
-http://212.164.25.179:1234/udp/233.7.70.115:5000
-#EXTINF:-1, Blue Hustler
-http://212.164.25.179:1234/udp/233.7.70.121:5000
-#EXTINF:-1, O-la-la
-http://212.164.25.179:1234/udp/233.7.70.236:5000
+#EXTINF:0,PENTHOUSE
+http://109.160.90.1:5555/udp/239.100.2.8:1234
+#EXTINF:0,Hustler HD
+http://server4.balkantvmedia.com:8080/XXX3?u=user986:p=Y98Rg0zd 
+#EXTINF:-0,REDLİGHT HD
+http://server4.balkantvmedia.com:8080/XXX2?u=user986:p=Y98Rg0zd 
+#EXTINF:-0,EROTIC 2 +18
+http://server4.balkantvmedia.com:8080/XXX5?u=user986:p=Y98Rg0zd 
+#EXTINF:-0,EROTIC 3 +18
+http://server4.balkantvmedia.com:8080/XXX6?u=user986:p=Y98Rg0zd
+#‎EXTINF‬:0,JASMIN TV (720p)
+rtmp://109.71.162.112/live/sd.jasminchannel.stream/sd.jasminchannel.stream
+#EXTINF:-1,BABES SPORTING
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1,BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:-1,HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1,OLALA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:-1,Power Girls TV HD
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,Private
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:-1,PRIVATE
+http://62.210.88.244:8081/private/private/playlist.m3u8
+#EXTINF:-1,sexZONE HD
+http://62.210.83.180:8081/sexzonehd/sexzonehd/chunklist_w1684109871.m3u8
+#EXTİNF:0,XXXHD 1 tv 
+http://188.165.220.116:8081/live/49/playlist.m3u8
+#EXTİNF:0, XXXHD 2 tv 
+http://188.165.220.116:8081/live2/24/playlist.m3u8
+#EXTINF:0,Blue Hustler
+http://j.mp/ZCH_C03_BLUEHUSTLER_sly
+#EXTINF:0,XXL
+http://j.mp/ZCH_C03_XXL_sly
+#EXTINF:0,Russian Night
+http://j.mp/ZCH_C01_RUSNIGHT_sly
+#EXTINF:0,Olala
+http://j.mp/ZCH_C06_OLALA_sly
+#EXTINF:-1, PASSI XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1, SAKURA
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+#EXTINF:-1, HOT GIRL
+http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
+#EXTINF:-1, THE O
+http://edge2.everyon.tv:1935/etv2sb/phd771/paz.m3u8
+#EXTINF:-1, CINERO
+http://edge2.everyon.tv:1935/etv2sb/phd59/paz.m3u8
+#EXTINF:-1, OKADAI HD
+http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8
+#EXTINF:-1, PINK TV
+http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8
+#EXTINF:-1, GIRLS TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
+#EXTINF:-1, DELIGHT EMPIRE
+http://edge2.everyon.tv:1935/etv2sb/phd63/paz.m3u8
+#EXTINF:-1, PLUS
+http://edge2.everyon.tv:1935/etv2sb/phd992/paz.m3u8
+#EXTINF:-1, OHDEOK
+http://edge2.everyon.tv:1935/etv2sb/phd993/paz.m3u8
+#EXTINF:-1, LIVETHING
+http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8
+#EXTINF:-1, PREMIUM
+http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
+#EXTINF:-1, ASK TV
+http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
+#EXTINF:-1, Penthouse HD
+http://82.146.20.98:1234/udp/239.130.50.124:9001
+#EXTINF:-1, S ext6senso
+http://82.146.20.98:1234/udp/239.130.50.126:9001
+#EXTINF:-1, TGIRLS TV
+http://82.146.20.98:1234/udp/239.130.50.127:9001
+#EXTINF:-1, Satisfaction
+http://82.146.20.98:1234/udp/239.130.50.128:9001
+#EXTINF:-1, SCT
+http://82.146.20.98:1234/udp/239.130.50.129:9001
+#EXTINF:-1, Pinko TV
+http://82.146.20.98:1234/udp/239.130.50.130:9001
+#EXTINF:-1, Hustler HD
+http://82.146.20.98:1234/udp/239.130.50.132:9001
+#EXTINF:-1, Private
+http://82.146.20.98:1234/udp/239.130.50.134:9001
+#EXTINF:-1, Frenchlover
+http://82.146.20.98:1234/udp/239.130.50.135:9001
+#EXTINF:-1, BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:-1, OLALA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:-1, SEXZONE HD
+http://62.210.83.180:8081/sexzonehd/sexzonehd/chunklist_w1684109871.m3u8
+#EXTINF:-1, SEXY HOT
+http://62.210.82.241:8081/sexhothd/sexhothd/chunklist_w1565017858.m3u8
+#EXTINF:-1, REDLIGHT HD
+http://213.95.47.104:8080/btv_00190/
+#EXTINF:-1, Hustler HD
+http://213.95.47.104:8080/btv_00188/
+#EXTINF:-1, XXI
+http://213.95.47.104:8080/btv_00192/
+#EXTINF:-1,HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1,CS Sex +18 ADULT
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,Jasmin
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1,Station
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#EXTINF:-1,SATISFACTION HD
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
+#EXTINF:-1,Brasileirinhas
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:-1,LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,Wepa
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+#EXTINF:-1,Wepa 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+#EXTINF:-1,Pb
+http://atde.x10.bz/playlist.php?ch=PlayboyTV&n=289
+#EXTINF:-1,Xtsy
+http://atde.x10.bz/playlist.php?ch=XTSYLA&n=1463
+#EXTINF:-1,hustler
+http://atde.x10.bz/playlist.php?ch=hustlerLA&n=1707
+#EXTINF:-1,VENUS
+http://atde.x10.bz/playlist.php?ch=VENUSSD&n=285
+#EXTINF:-1,Sextreme
+http://atde.x10.bz/playlist.php?ch=SextremeSD&n=287
+#EXTINF:-1,Juicy
+http://atde.x10.bz/playlist.php?ch=JuicyLA&n=1023
+#EXTINF:-1,Real
+http://atde.x10.bz/playlist.php?ch=RealLA&n=1021
+#EXTINF:-1,Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1,XXX-Babes 1
+http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
+#EXTINF:-1,XXX-Babes 10
+http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
+#EXTINF:-1,XXX-Babes 11
+http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
+#EXTINF:-1,XXX-Babes 12
+http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
+#EXTINF:-1,XXX-Babes 14
+http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4/
+#EXTINF:-1,XXX-Babes 15
+http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/
+#EXTINF:-1,XXX-Babes 16
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
+#EXTINF:-1,XXX-Babes 17
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
+#EXTINF:-1,XXX-Babes 18
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
+#EXTINF:-1,XXX-Babes 19
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:-1,XXX-Babes 2
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
+#EXTINF:-1,XXX-Babes 20
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/
+#EXTINF:-1,XXX-Babes 3
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
+#EXTINF:-1,XXX-Babes 4
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
+#EXTINF:-1,XXX-Babes 5
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
+#EXTINF:-1,XXX-Babes 6
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
+#EXTINF:-1,XXX-Babes 7
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
+#EXTINF:-1,XXX-Babes 8
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
+#EXTINF:-1,XXX-Babes 9
+http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/
