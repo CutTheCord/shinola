@@ -1,17 +1,700 @@
 #EXTM3U
-#EXTINF:-1, ABC
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1, ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1, ABC News (stream 2)
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1, NBC Sports Network 1080P
+#EXTINF:-1, [COLOR red]-- Links Updated 05 OCT 2015 --[/COLOR]
+#EXTINF:-1, [COLOR red]-- I rarely update these links --[/COLOR]
+#EXTINF:-1, [COLOR red]-- for more reliable links use BBTS and MOBDRO --[/COLOR]
+#EXTINF:-1, [kodim3u]  Nick
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/97.m3u8
+#EXTINF:-1, [kodim3u]  nat geo
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/96.m3u8
+#EXTINF:-1, [kodim3u]  Hot Rod Garage
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/95.m3u8
+#EXTINF:-1, [kodim3u] cartoon?
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/94.m3u8
+#EXTINF:-1, [kodim3u] Khan Academy
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/93.m3u8
+#EXTINF:-1, [kodim3u] children?
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/92.m3u8
+#EXTINF:-1, [kodim3u] Howcast craft
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/91.m3u8
+#EXTINF:-1, [kodim3u] CNet
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/90.m3u8
+#EXTINF:-1, [kodim3u]  Disney Channel
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/89.m3u8
+#EXTINF:-1, [kodim3u]  TED Talks
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/88.m3u8
+#EXTINF:-1, [kodim3u]  My Damn Channel
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/87.m3u8
+#EXTINF:-1, [kodim3u]  Comedy Central
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/86.m3u8
+#EXTINF:-1, [kodim3u]  Eurosport (Fr)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/85.m3u8
+#EXTINF:-1, [kodim3u] TNT
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/84.m3u8
+#EXTINF:-1, [kodim3u]  Conan
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/83.m3u8
+#EXTINF:-1, [kodim3u]  TBS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/82.m3u8
+#EXTINF:-1, [kodim3u] ABS-CBN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/81.m3u8
+#EXTINF:-1, [kodim3u]  C SPAN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/80.m3u8
+#EXTINF:-1, [kodim3u]  Bloomberg
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/79.m3u8
+#EXTINF:-1, E4 
+http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:-1, HBO
+http://telemost-bg.com/include/channelStream.php?channel=80
+#EXTINF:-1, HBO 2
+rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:1, HISTORY
+http://telemost-bg.com/include/channelStream.php?channel=82
+#EXTINF:-1, ANIMAL PLANET
+http://telemost-bg.com/include/channelStream.php?channel=32
+#EXTINF:-1, [kodim3u] 78
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/78.m3u8
+#EXTINF:-1, [kodim3u] 77
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/77.m3u8
+#EXTINF:-1, [kodim3u] 76
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/76.m3u8
+#EXTINF:-1, [kodim3u]  FOX SPORTS 1
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
+#EXTINF:-1, [kodim3u] 74
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/74.m3u8
+#EXTINF:-1, [kodim3u] 73
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/73.m3u8
+#EXTINF:-1, [kodim3u] 72
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/72.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/71.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/70.m3u8
+#EXTINF:-1, [kodim3u] nas car
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
+#EXTINF:-1, [kodim3u] MLS Now
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/68.m3u8
+#EXTINF:-1, [kodim3u]  golf
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/67.m3u8
+#EXTINF:-1, [kodim3u]  nas car loop
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/66.m3u8
+#EXTINF:-1, [kodim3u]  The CW Network
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/65.m3u8
+#EXTINF:-1, [kodim3u]  NBC Network
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/64.m3u8
+#EXTINF:-1, [kodim3u]  cbs loop
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/63.m3u8
+#EXTINF:-1, [kodim3u]  Bein Sports Xtra (mixed lang.)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/62.m3u8
+#EXTINF:-1, [kodim3u]  go pro loop
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/61.m3u8
+#EXTINF:-1, [kodim3u]  discovery
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/60.m3u8
+#EXTINF:-1, [kodim3u]  NPR
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/54.m3u8
+#EXTINF:-1, [kodim3u]  FOOD NETWORK
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/53.m3u8
+#EXTINF:-1, [kodim3u]  HGTV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/52.m3u8
+#EXTINF:-1, [kodim3u]  USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/50.m3u8
+#EXTINF:-1, [kodim3u]  Epic Rap Battles of History
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/48.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/47.m3u8
+EXTINF:-1, [kodim3u]  DISCOVERY NEWS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/46.m3u8
+EXTINF:-1, [kodim3u] BW TV Sitcoms
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/45.m3u8
+#EXTINF:-1, [kodim3u]  Epic Meal Time
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/43.m3u8
+#EXTINF:-1, [kodim3u]  FOX BUSINESS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/42.m3u8
+#EXTINF:-1, [kodim3u]  fox loop
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/41.m3u8
+#EXTINF:-1, [kodim3u]  MLB TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/40.m3u8
+#EXTINF:-1, [kodim3u]  FRANCE 24
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/39.m3u8
+#EXTINF:-1, [kodim3u]  CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/38.m3u8
+#EXTINF:-1, [kodim3u]  MSNBC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/37.m3u8
+#EXTINF:-1, [kodim3u]  NPR
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/36.m3u8
+#EXTINF:-1, [kodim3u]  FOX NEWS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/35.m3u8
+#EXTINF:-1, [kodim3u]  discovery loop
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/33.m3u8
+#EXTINF:-1, [kodim3u]  usa
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/32.m3u8
+#EXTINF:-1, [kodim3u]  cnbc news
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/31.m3u8
+#EXTINF:-1, [kodim3u]  bbc news report
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/30.m3u8
+#EXTINF:-1, [kodim3u]  NFL
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/29.m3u8
+#EXTINF:-1, [kodim3u]  rhenium states
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/28.m3u8
+#EXTINF:-1, [kodim3u]  DIY
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/23.m3u8
+#EXTINF:-1, [kodim3u]  Destination USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/22.m3u8
+#EXTINF:-1, [kodim3u] PBS Crash Course
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/21.m3u8
+#EXTINF:-1, [kodim3u]  BW TV Variety
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/20.m3u8
+#EXTINF:-1, [kodim3u]  Cinema Sins
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/19.m3u8
+#EXTINF:-1, [kodim3u]  CENTRIC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/18.m3u8
+#EXTINF:-1, [kodim3u]  World Fishing Network
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/17.m3u8
+#EXTINF:-1, [kodim3u]  BW TV Adventures
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/16.m3u8
+#EXTINF:-1, [kodim3u]  FX
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/14.m3u8
+#EXTINF:-1, [kodim3u]  Disney Jr.
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/13.m3u8
+#EXTINF:-1, [kodim3u]  black and white films
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/12.m3u8
+#EXTINF:-1, [kodim3u]  DISCOVERY UK Loop
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8
+#EXTINF:-1, [kodim3u]  COOKING CHANNEL
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8
+#EXTINF:-1, [kodim3u]  NEWSMAX TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/9.m3u8
+#EXTINF:-1, [kodim3u]  Buz Feed
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/7.m3u8
+#EXTINF:-1, [kodim3u]  cbeebies
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/6.m3u8
+#EXTINF:-1, [kodim3u]  CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/5.m3u8
+#EXTINF:-1, [kodim3u]  Cartoon Network UK
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/4.m3u8
+#EXTINF:-1, [kodim3u] CHELSEA TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/100.m3u8
+#EXTINF:-1, [kodim3u] copa
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/101.m3u8
+#EXTINF:-1, [kodim3u] FC Barcelona (Spain)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/102.m3u8
+#EXTINF:-1, [kodim3u] Freekickerz (Mixed Lang.)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/103.m3u8
+#EXTINF:-1, [kodim3u] m boxing
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/109.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/110.m3u8
+#EXTINF:-1, [kodim3u] m 2
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/111.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/112.m3u8
+#EXTINF:-1, [kodim3u] FIFA TV (Live/Gaming)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/113.m3u8
+#EXTINF:-1, [kodim3u] mexico
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/114.m3u8
+#EXTINF:-1, [kodim3u] liverpool
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/115.m3u8
+#EXTINF:-1, [kodim3u] sony
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/116.m3u8
+#EXTINF:-1, [kodim3u] lum
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/118.m3u8
+#EXTINF:-1, [kodim3u] liga bbva spanish
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
+#EXTINF:-1, [kodim3u] ,Ligue 1 (France)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/120.m3u8
+#EXTINF:-1, [kodim3u] LIVERPOOL TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u8
+#EXTINF:-1, [kodim3u] man city
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
+#EXTINF:-1, [kodim3u] Megavision (Mexico)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/123.m3u8
+#EXTINF:-1, [kodim3u] g vegane music
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/124.m3u8
+#EXTINF:-1, [kodim3u] motocias
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/125.m3u8
+#EXTINF:-1, [kodim3u] real madrid
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/126.m3u8
+#EXTINF:-1, [kodim3u] sony entertainment
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/127.m3u8
+#EXTINF:-1, [kodim3u] champions league, live
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/128.m3u8
+#EXTINF:-1, [kodim3u] telefuturo este
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/129.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/130.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/131.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/132.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/133.m3u8
+#EXTINF:-1, [kodim3u]  BBC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/134.m3u8
+#EXTINF:-1, [kodim3u]  VERIA LIVING
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/135.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/136.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/137.m3u8
+#EXTINF:-1, [kodim3u]  W LIVE
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/139.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/140.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/141.m3u8
+#EXTINF:-1, [kodim3u]  ANIMAL PLANET
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/142.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/143.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/144.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/145.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/146.m3u8
+#EXTINF:-1, [kodim3u]  BBC AMERICA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/147.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/148.m3u8
+#EXTINF:-1, [kodim3u] NBA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/149.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/150.m3u8
+#EXTINF:-1, [kodim3u]  HALLMARK CHANNEL
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/152.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/153.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/154.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/155.m3u8
+#EXTINF:-1, [kodim3u]  MTV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/156.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/157.m3u8
+#EXTINF:-1, [kodim3u]  FUSE
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/163.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/167.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/172.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/174.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/178.m3u8
+#EXTINF:-1, [kodim3u]  E
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/181.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/182.m3u8
+#EXTINF:-1, [kodim3u]  CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/186.m3u8
+#EXTINF:-1, [kodim3ue]  NAT GEO
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/187.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/202.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/206.m3u8
+#EXTINF:-1, [kodim3u] 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/207.m3u8
+#EXTINF:-1, [kodim3u]  CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/210.m3u8
+#EXTINF:-1, [kodim3u]  CCTV NEWS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/216.m3u8
+#EXTINF:-1, [kodim3u]  (CHINESE)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/219.m3u8
+#EXTINF:-1, [kodim3u]  FRANCE 24
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/224.m3u8
+#EXTINF:-1, COOKING CHANNEL
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/226.m3u8
+#EXTINF:-1, kodim3u 227
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/227.m3u8
+#EXTINF:-1, kodim3u 228
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/228.m3u8
+#EXTINF:-1, kodim3u 229
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/229.m3u8
+#EXTINF:-1, kodim3u 230
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/230.m3u8
+#EXTINF:-1, kodim3u 231
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/231.m3u8
+#EXTINF:-1, kodim3u 232
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/232.m3u8
+#EXTINF:-1,kodim3u 233
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/233.m3u8
+#EXTINF:-1, kodim3u 235
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/235.m3u8
+#EXTINF:-1, kodim3u 236
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/236.m3u8
+#EXTINF:-1, kodim3u 237
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/237.m3u8
+#EXTINF:-1,kodim3u 239
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/239.m3u8
+#EXTINF:-1, kodim3u 240
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/240.m3u8
+#EXTINF:-1, kodim3u global news
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/241.m3u8
+#EXTINF:-1, 
+#EXTINF:-1, [COLOR blue] -- SPORTS --[/COLOR]
+#EXTINF:-1, 
+#EXTINF:-1, FOX COLLEGE SPORTS
+http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8
+#EXTINF:-1, FOX SOCCER PLUS HD
+http://54.177.195.82/server/play/fspctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+#EXTINF:-1, FOX SOCCER PLUS 
+http://54.177.195.82/server/play/fspctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+#EXTINF:-1, FOX SPORTS 1
+http://54.177.195.82/server/play/fs1ctg/3964000/prog.m3u8?anv=1427415219896 |X-Forwarded-For=66.171.228.102
+#EXTINF:-1, FOX SPORTS 1 GO
+http://ftve7300-i.akamaihd.net/hls/live/216995/fs1/3964k/prog.m3u8|X-Forwarded-For=66.171.228.102
+#EXTINF:-1, FOX SPORTS 2
+http://ftve7300-i.akamaihd.net/hls/live/216996/fs2/1264k/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102
+#EXTINF:-1, FOX SPORTS 2 GO
+http://54.177.195.82/server/play/fs2ctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=209.239.112.104
+#EXTINF:-1, ESPN 1 (USA) 
+rtmp://46.246.29.157:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=otherse&width=600&height=460
+#EXTINF:-1, BEIN SPORTS USA 1
+http://lihattv.toh.info/jhos/beib1.m3u8
+#EXTINF:-1, BEIN SPORTS USA 2
+http://lihattv.toh.info/jhos/beib2.m3u8
+#EXTINF:-1, BEIN SPORTS USA 3
+http://lihattv.toh.info/jhos/beib3.m3u8
+#EXTINF:-1, ESPN (USA)
+rtmp://pub.yocast.tv:1935/live/_definst_/espnus
+#EXTINF:-1, NBA TV HD
+http://78.56.73.169:4022/udp/239.2.3.114:1234
+#EXTINF:-1, MMA
+http://162.210.192.79:8081/origin/mma/playlist.m3u8
+#EXTINF:-1, FIGHT CHANNEL
+http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
+#EXTINF:-1, NBC SPORTS NETWORK
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1, BBC World News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
-#EXTINF:-1, Big Ten Network
+#EXTINF:-1, NBC SPORTS NETWORK LIVE EXTRA HD
+http://ipadstream.nbcsports.com/hls/live/202061/mobile4/2500.m3u8|X-Forwarded-For=209.239.112.167
+#EXTINF:-1, NBC GOLF HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.167
+#EXTINF:-1, NBC GOLF
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1, MLB NETWORK
+http://162.210.192.79:8081/origin/ch1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL NETWORK SD
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8 
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL NETWORK HD 1500k
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_1500k.m3u8
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL NETWORK HD 2000k
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL NETWORK HD 5000k
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
+#EXTINF:-1, BIG TEN NETWORK HD (USA)
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:0, Cartoon Network
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-#EXTINF:-1, CNN
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1, PAC-12 Arizona HD 
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1, PAC-12 Arizona HD 
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1, PAC-12 Bay Area HD
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1, PAC-12 Bay Area 
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1, PAC-12 Los Angeles HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1, PAC-12 Mountain HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1, PAC-12 National HD 1
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, PAC-12 National HD 2
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, PAC-12 National HD 3
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, PAC-12 Oregon HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1, PAC-12 Arizona HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1, PAC-12 Bay Area HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1, PAC-12 Los Angeles HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1, PAC-12 Mountain HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (National)
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (Mountain)
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1, PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1, PAC-12 Arizona HD 1
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1, PAC-12 Arizona HD 2
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1, PAC-12 Bay Area HD 1
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1, PAC-12 Bay Area HD 2
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1, PAC-12 Los Angeles HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1, PAC-12 Mountain HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1, PAC-12 National HD 1
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, PAC-12 National HD 2
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1, PAC-12 Oregon HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1, PAC-12 Washington HD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1, TSN 1 (CANADA)
+http://37.187.248.101:8080/tsn1.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, TSN 2 (CANADA)
+http://37.187.248.101:8080/tsn2.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, TSN 3 (CANADA)
+http://37.187.248.101:8080/tsn3.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, TSN 4 (CANADA)
+http://37.187.248.101:8080/tsn4.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:-1, TSN 5 (CANADA)
+http://37.187.248.101:8080/tsn5.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065
+#EXTINF:0,Entertainment:8/15-ABC HD
+http://167.114.101.188:1935/flu555/_definst_/abc/playlist.m3u8?token=
+#EXTINF:-1, 
+#EXTINF:-1, [COLOR Green] -- MIXED CHANNELS --[/COLOR]
+#EXTINF:-1, 
+#EXTINF:0,CBS HD
+http://192.99.19.98:1935/flu555/_definst_/cbs/playlist.m3u8?token=
+#EXTINF:0,NBC HD
+http://192.99.39.240:1935/flu555/_definst_/nbc/playlist.m3u8?token=
+#EXTINF:0,FOX 5 HD
+http://167.114.157.40:1935/flu555/_definst_/fox/playlist.m3u8?token=
+#EXTINF:0,4 Seven
+http://84.232.5.115/liveedge/4seven.stream/playlist.m3u8
+#EXTINF:0,5 Star
+http://84.232.5.115/liveedge/5star.stream/playlist.m3u8
+#EXTINF:0,5 USA
+http://84.232.5.115/liveedge/5usa.stream/playlist.m3u8
+#EXTINF:0,CBS Reality
+http://84.232.5.115/liveedge/cbsreality.stream/playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://84.232.5.115/liveedge3/cartoon.stream/playlist.m3u8
+#EXTINF:0,Challenge
+http://84.232.5.115/liveedge3/comedy.stream/playlist.m3u8
+#EXTINF:0,Comedy Cantral
+http://84.232.5.115/liveedge3/challenge.stream/playlist.m3u8
+#EXTINF:0,Dave
+http://84.232.5.115/liveedge3/dave.stream/playlist.m3u8
+#EXTINF:0,Discovery History
+http://84.232.5.115/liveedge3/discovhistory.stream/playlist.m3u8
+#EXTINF:0,Discovery Science
+http://84.232.5.115/liveedge3/discovsci.stream/playlist.m3u8
+#EXTINF:0,Discovery Shed
+http://84.232.5.115/liveedge3/shed.stream/playlist.m3u8
+#EXTINF:0,Discovery Turbo
+http://84.232.5.115/liveedge3/discovturbo.stream/playlist.m3u8
+#EXTINF:0,Discovery Channel
+http://84.232.5.115/liveedge3/disney.stream/playlist.m3u8
+#EXTINF:0,Disney Channel
+http://84.232.5.115/liveedge3/disney.stream/playlist.m3u8
+#EXTINF:0,Disney Junior
+http://84.232.5.115/liveedge3/disneyjr.stream/playlist.m3u8
+#EXTINF:0,Disney XD
+http://84.232.5.115/liveedge3/disneyxd.stream/playlist.m3u8
+#EXTINF:0,DMax
+http://84.232.5.115/liveedge3/dmax.stream/playlist.m3u8
+#EXTINF:0,Drama
+http://84.232.5.115/liveedge3/drama.stream/playlist.m3u8
+#EXTINF:0,E!
+http://84.232.5.115/liveedge/e.stream/playlist.m3u8
+#EXTINF:0,Eden
+http://84.232.5.115/liveedge3/eden.stream/playlist.m3u8
+#EXTINF:0,Flava
+http://84.232.5.115/liveedge/flava.stream/playlist.m3u8
+#EXTINF:0,Food Network
+http://84.232.5.115/liveedge/foodnetwork.stream/playlist.m3u8
+#EXTINF:0,FOX
+http://84.232.5.115/liveedge3/fox.stream/playlist.m3u8
+#EXTINF:0,FX
+http://84.232.5.115/liveedge/fx.stream/playlist.m3u8
+#EXTINF:0,Gold
+http://84.232.5.115/liveedge3/gold.stream/playlist.m3u8
+#EXTINF:0,History
+http://84.232.5.115/liveedge3/history.stream/playlist.m3u8
+#EXTINF:0,History 2
+http://84.232.5.115/liveedge3/h2.stream/playlist.m3u8
+#EXTINF:0,Movies 24
+http://84.232.5.115/liveedge3/movies24.stream/playlist.m3u8
+#EXTINF:0,MUTV
+http://84.232.5.115/liveedge3/mutv.stream/playlist.m3u8
+#EXTINF:0,Nat Geo
+http://84.232.5.115/liveedge3/natgeo.stream/playlist.m3u8
+#EXTINF:0,Nat Geo Wild
+http://84.232.5.115/liveedge3/natgeowild.stream/playlist.m3u8
+#EXTINF:0,Pick
+http://84.232.5.115/liveedge/pick.stream/playlist.m3u8
+#EXTINF:0,Quest
+http://84.232.5.115/liveedge3/quest.stream/playlist.m3u8
+#EXTINF:0,Really
+http://84.232.5.115/liveedge3/really.stream/playlist.m3u8
+#EXTINF:0,Scuzz
+http://84.232.5.115/liveedge/scuzz.stream/playlist.m3u8
+#EXTINF:0,Sky Atlantic
+http://84.232.5.115/liveedge/atlantic.stream/playlist.m3u8
+#EXTINF:0,Sky 1
+http://84.232.5.115/liveedge3/sky1.stream/playlist.m3u8
+#EXTINF:0,Sky 2
+http://84.232.5.115/liveedge3/sky2.stream/playlist.m3u8
+#EXTINF:0,Sky Living
+http://84.232.5.115/liveedge/living.stream/playlist.m3u8
+#EXTINF:0,Sky LivingIt
+http://84.232.5.115/liveedge3/livingit.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Action & Adventure
+http://84.232.5.115/liveedge3/movaction.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Comedy
+http://84.232.5.115/liveedge3/movcomedy.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Crime & Thriller
+http://84.232.5.115/liveedge3/movthriller.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Disney
+http://84.232.5.115/liveedge3/movdisney.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Drama & Romance
+http://84.232.5.115/liveedge3/movdrama.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Family
+http://84.232.5.115/liveedge3/movfamily.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Greats
+http://84.232.5.115/liveedge3/movgreats.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Premiere
+http://84.232.5.115/liveedge3/movpremier.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Sci-Fi & Horror
+http://84.232.5.115/liveedge3/movscifi.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Select
+http://84.232.5.115/liveedge3/movselect.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Showcase
+http://84.232.5.115/liveedge3/movshowcase.stream/playlist.m3u8
+#EXTINF:0,Sky News
+http://84.232.5.115/liveedge/skynews.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 1
+http://84.232.5.115/liveedge/skysp1.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 2
+http://84.232.5.115/liveedge/skysp2.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 3
+http://84.232.5.115/liveedge/skysp3.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 4
+http://84.232.5.115/liveedge/skysp4.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 5
+http://84.232.5.115/liveedge/skysp5.stream/playlist.m3u8
+#EXTINF:0,Sky Sports F1
+http://84.232.5.115/liveedge/skyspf1.stream/playlist.m3u8
+#EXTINF:0,Spike
+http://84.232.5.115/liveedge/spike.stream/playlist.m3u8
+#EXTINF:0,SYFY
+http://84.232.5.115/liveedge3/syfy.stream/playlist.m3u8
+#EXTINF:0,TG4
+http://84.232.5.115/liveedge3/tg4.stream/playlist.m3u8
+#EXTINF:0,The Vault
+http://84.232.5.115/liveedge/vault.stream/playlist.m3u8
+#EXTINF:0,TLC
+http://84.232.5.115/liveedge3/tlc.stream/playlist.m3u8
+#EXTINF:0,True Drama
+http://84.232.5.115/liveedge/truedrama.stream/playlist.m3u8
+#EXTINF:0,True Entertainment
+http://84.232.5.115/liveedge/trueentertainment.stream/playlist.m3u8
+#EXTINF:0,True Movies 1
+http://84.232.5.115/liveedge/true1.stream/playlist.m3u8
+#EXTINF:0,True Movies 2
+http://84.232.5.115/liveedge/true2.stream/playlist.m3u8
+#EXTINF:0,Tru TV
+http://84.232.5.115/liveedge/trutv.stream/playlist.m3u8
+#EXTINF:0,Universal
+http://84.232.5.115/liveedge3/universal.stream/playlist.m3u8
+#EXTINF:0,Watch
+http://84.232.5.115/liveedge3/watch.stream/playlist.m3u8
+#EXTINF:0,Yesterday
+http://84.232.5.115/liveedge3/yesterday.stream/playlist.m3u8
+#EXTINF:0,BBC 1
+http://84.232.5.115/liveedge/bbc1.stream/playlist.m3u8
+#EXTINF:0,BBC 2
+http://84.232.5.115/liveedge/bbc2.stream/playlist.m3u8
+#EXTINF:0,BBC 3
+http://84.232.5.115/liveedge/bbc3.stream/playlist.m3u8
+#EXTINF:0,BBC 4
+http://84.232.5.115/liveedge/bbc4.stream/playlist.m3u8
+#EXTINF:0,BBC Alba
+http://84.232.5.115/liveedge/bbcalba.stream/playlist.m3u8
+#EXTINF:0,Channel 4
+http://84.232.5.115/liveedge/channel4.stream/playlist.m3u8
+#EXTINF:0,Channel 5
+http://84.232.5.115/liveedge/channel5.stream/playlist.m3u8
+#EXTINF:0,ITV 1
+http://84.232.5.115/liveedge/itv1.stream/playlist.m3u8
+#EXTINF:0,ITV 2
+http://84.232.5.115/liveedge/itv2.stream/playlist.m3u8
+#EXTINF:0,ITV 3
+http://84.232.5.115/liveedge/itv3.stream/playlist.m3u8
+#EXTINF:0,ITV 4
+http://84.232.5.115/liveedge/itv4.stream/playlist.m3u8
+#EXTINF:0,ITV be
+http://84.232.5.115/liveedge/itvbe.stream/playlist.m3u8
+#EXTINF:0,ITV Encore
+http://84.232.5.115/liveedge3/itvencore.stream/playlist.m3u8
+#EXTINF:0,More 4
+http://84.232.5.115/liveedge/more4.stream/playlist.m3u8
+#EXTINF:0,RTE 1
+http://84.232.5.115/liveedge3/rte1.stream/playlist.m3u8
+#EXTINF:0,RTE 2
+http://84.232.5.115/liveedge3/rte2.stream/playlist.m3u8
+#EXTINF:0,Film 4
+http://84.232.5.115/liveedge/film4.stream/playlist.m3u8
+#EXTINF:0,Alibi
+http://84.232.5.115/liveedge3/alibi.stream/playlist.m3u8
+#EXTINF:0,E4
+http://84.232.5.115/liveedge/e4.stream/playlist.m3u8
+#EXTINF:0,Eurosport 1
+http://84.232.5.115/liveedge3/eurosport.stream/playlist.m3u8
+#EXTINF:0,Eurosport 2
+http://84.232.5.115/liveedge3/eurosport2.stream/playlist.m3u8
+#EXTINF:0,BT ESPN UK
+http://84.232.5.115/liveedge/espn.stream/playlist.m3u8
+#EXTINF:0,BT Sport 1
+http://84.232.5.115/liveedge/bt1.stream/playlist.m3u8
+#EXTINF:0,BT Sport 2
+http://84.232.5.115/liveedge/bt2.stream/playlist.m3u8
+#EXTINF:0,Motors TV
+http://84.232.5.115/liveedge3/motors.stream/playlist.m3u8
+#EXTINF:0,Premier Sports
+http://84.232.5.115/liveedge3/premier.stream/playlist.m3u8
+#EXTINF:0,Racing UK
+http://84.232.5.115/liveedge/racinguk.stream/playlist.m3u8
+#EXTINF:0,Setanta Sport
+http://84.232.5.115/liveedge3/setanta.stream/playlist.m3u8
+#EXTINF:0,Bliss TV
+http://84.232.5.115/liveedge/bliss.stream/playlist.m3u8
+#EXTINF:0,WPIX
+http://167.114.119.209:1935/flu555/_definst_/wpix/playlist.m3u8?token=
+#EXTINF:0,KTLA
+http://192.99.39.240:1935/flu555/_definst_/ktla/playlist.m3u8?token=
+#EXTINF:0,ABC HD
+http://167.114.101.188:1935/flu555/_definst_/abc/playlist.m3u8?token=
+#EXTINF:0,CBS HD
+http://192.99.19.98:1935/flu555/_definst_/cbs/playlist.m3u8?token=
+#EXTINF:0,NBC HD
+http://192.99.39.240:1935/flu555/_definst_/nbc/playlist.m3u8?token=
+#EXTINF:0,FOX 5 HD
+http://167.114.157.40:1935/flu555/_definst_/fox/playlist.m3u8?token=
+#EXTINF:0,E!
+http://167.114.101.188:1935/flu555/_definst_/e/playlist.m3u8?token=
+#EXTINF:0,Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:0,Disney XD
+http://167.114.101.188:1935/flu555/_definst_/disneyxd/playlist.m3u8?token=
+#EXTINF:0,Nick JR
+http://192.99.39.240:1935/flu555/_definst_/nick/playlist.m3u8?token=
+
+
+
+
+
+
+
+
+
+
